@@ -1,0 +1,25 @@
+nav {
+    background-color: lightcoral;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.sub_head {
+    display: inline;
+    line-height: 10px;
+}
+
+body {
+    margin: 0;
+}
+.container {
+    display: flex;
+    align-content: center;
+}
+
+
+.sub_container {
+    display: grid;
+    justify-content: space-between;
+}
